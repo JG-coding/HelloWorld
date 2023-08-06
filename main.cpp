@@ -22,6 +22,7 @@ void sort(int arr[], int size)
 
 int main()
 {
+    //linuxÌí¼ÓÁË×¢ÊÍ
     int arr[] = {12,55,66,77,1,3};
     int size = sizeof(arr)/sizeof(arr[0]);
     sort(arr,size);
