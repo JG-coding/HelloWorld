@@ -3,6 +3,7 @@ using namespace std;
 
 void sort(int arr[], int size)
 {
+    //windowÌí¼ÓÁË×¢ÊÍ
     int tmp = 0;
     for(int i = 0; i < size - 1; i++)
     {
